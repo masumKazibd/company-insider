@@ -11,7 +11,7 @@ export class CompanyService {
   private http = inject(HttpClient);
 
   getCompanies(): Observable<Company[]> {
-    return this.http.get<Company[]>('assets/data/companies.json');
+    return this.http.get<Company[]>('/data/companies.json');
   }
 
 }

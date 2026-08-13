@@ -115,5 +115,122 @@
       "version": "1.0.0",
       "notes": ""
     }
+  },
+  {
+    "id": "brain-station-23",
+    "company": {
+      "name": "Brain Station 23",
+      "shortName": "BS23",
+      "logo": "assets/logos/brain-station-23.png",
+      "website": "https://brainstation-23.com",
+      "careerSite": "https://brainstation-23.com/career",
+      "description": "Leading software company in Bangladesh.",
+      "industry": "Software Development",
+      "foundedYear": 2006,
+      "employeeSize": "1000+",
+      "basisMember": true,
+      "headquarters": {
+        "city": "Dhaka",
+        "country": "Bangladesh"
+      },
+      "branches": [
+        "Dhaka"
+      ]
+    },
+    "technology": {
+      "languages": [
+        "C#",
+        "TypeScript"
+      ],
+      "frameworks": [
+        ".NET",
+        "Angular"
+      ],
+      "databases": [
+        "SQL Server"
+      ],
+      "cloud": [
+        "Azure"
+      ],
+      "devops": [
+        "Docker"
+      ],
+      "tools": [
+        "Git",
+        "Jira"
+      ]
+    },
+    "work": {
+      "workModels": [
+        "Hybrid"
+      ],
+      "officeHours": {
+        "start": "09:00",
+        "end": "18:00"
+      },
+      "weekend": [
+        "Friday",
+        "Saturday"
+      ],
+      "flexibleHours": false,
+      "dressCode": "Casual",
+      "probationMonths": 6,
+      "overtimePolicy": "Paid"
+    },
+    "benefits": {
+      "lunch": {
+        "type": "Subsidized"
+      },
+      "festivalBonus": true,
+      "performanceBonus": true,
+      "providentFund": true,
+      "gratuity": false,
+      "medicalInsurance": true,
+      "transportFacility": true,
+      "internetAllowance": false,
+      "mobileAllowance": false,
+      "gym": false,
+      "parking": true,
+      "yearlyTour": true,
+      "trainingBudget": true,
+      "workFromHomeAllowance": false
+    },
+    "salary": {
+      "paymentMethod": "Bank",
+      "salaryReview": "Yearly",
+      "salaryDate": "Last Working Day"
+    },
+    "career": {
+      "acceptFreshers": true,
+      "internshipAvailable": true,
+      "hiring": true,
+      "careerEmail": "career@brainstation-23.com",
+      "hrEmail": "hr@brainstation-23.com"
+    },
+    "contact": {
+      "email": "info@brainstation-23.com",
+      "phone": "+8801700000000",
+      "facebook": "",
+      "linkedin": "",
+      "github": "",
+      "x": ""
+    },
+    "ratings": {
+      "google": 4.6,
+      "glassdoor": 4.4,
+      "interviewDifficulty": "Medium"
+    },
+    "metadata": {
+      "verified": true,
+      "verifiedBy": "Masum Kazi",
+      "source": {
+        "type": "Official Website",
+        "url": "https://brainstation-23.com"
+      },
+      "confidence": "High",
+      "lastUpdated": "2026-07-01",
+      "version": "1.0.0",
+      "notes": ""
+    }
   }
 ]

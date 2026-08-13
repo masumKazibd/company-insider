@@ -4,13 +4,13 @@
     "company": {
       "name": "Brain Station 23",
       "shortName": "BS23",
-      "logo": "assets/logos/brain-station-23.png",
+      "logo": "/data/logos/brain-station-23.jpg",
       "website": "https://brainstation-23.com",
       "careerSite": "https://brainstation-23.com/career",
-      "description": "Leading software company in Bangladesh.",
+      "description": "A leading Bangladesh-based software development and digital transformation company serving global clients.",
       "industry": "Software Development",
       "foundedYear": 2006,
-      "employeeSize": "1000+",
+      "employeeSize": "500+",
       "basisMember": true,
       "headquarters": {
         "city": "Dhaka",
@@ -23,85 +23,98 @@
     "technology": {
       "languages": [
         "C#",
-        "TypeScript"
+        "Java",
+        "JavaScript",
+        "TypeScript",
+        "Python"
       ],
       "frameworks": [
         ".NET",
-        "Angular"
+        "Angular",
+        "React",
+        "Node.js",
+        "Spring Boot"
       ],
       "databases": [
-        "SQL Server"
+        "SQL Server",
+        "PostgreSQL",
+        "MySQL",
+        "MongoDB"
       ],
       "cloud": [
-        "Azure"
+        "Azure",
+        "AWS",
+        "Google Cloud"
       ],
       "devops": [
-        "Docker"
+        "Docker",
+        "Kubernetes",
+        "CI/CD"
       ],
       "tools": [
         "Git",
-        "Jira"
+        "Jira",
+        "Confluence"
       ]
     },
     "work": {
       "workModels": [
-        "Hybrid"
+        "On-site",
+        "Hybrid",
+        "Remote"
       ],
-      "officeHours": {
-        "start": "09:00",
-        "end": "18:00"
-      },
+      "officeHours": null,
       "weekend": [
         "Friday",
         "Saturday"
       ],
-      "flexibleHours": false,
-      "dressCode": "Casual",
-      "probationMonths": 6,
-      "overtimePolicy": "Paid"
+      "flexibleHours": null,
+      "dressCode": null,
+      "probationMonths": null,
+      "overtimePolicy": null
     },
     "benefits": {
       "lunch": {
-        "type": "Subsidized"
+        "type": null
       },
-      "festivalBonus": true,
-      "performanceBonus": true,
-      "providentFund": true,
-      "gratuity": false,
-      "medicalInsurance": true,
-      "transportFacility": true,
-      "internetAllowance": false,
-      "mobileAllowance": false,
-      "gym": false,
-      "parking": true,
-      "yearlyTour": true,
-      "trainingBudget": true,
-      "workFromHomeAllowance": false
+      "festivalBonus": null,
+      "performanceBonus": null,
+      "providentFund": null,
+      "gratuity": null,
+      "medicalInsurance": null,
+      "transportFacility": null,
+      "internetAllowance": null,
+      "mobileAllowance": null,
+      "gym": null,
+      "parking": null,
+      "yearlyTour": null,
+      "trainingBudget": null,
+      "workFromHomeAllowance": null
     },
     "salary": {
-      "paymentMethod": "Bank",
-      "salaryReview": "Yearly",
-      "salaryDate": "Last Working Day"
+      "paymentMethod": null,
+      "salaryReview": null,
+      "salaryDate": null
     },
     "career": {
       "acceptFreshers": true,
       "internshipAvailable": true,
       "hiring": true,
-      "careerEmail": "career@brainstation-23.com",
-      "hrEmail": "hr@brainstation-23.com"
+      "careerEmail": null,
+      "hrEmail": null
     },
     "contact": {
-      "email": "info@brainstation-23.com",
-      "phone": "+8801700000000",
+      "email": null,
+      "phone": null,
       "facebook": "",
       "linkedin": "",
       "github": "",
       "x": ""
     },
     "ratings": {
-      "google": 4.6,
-      "glassdoor": 4.4,
-      "interviewDifficulty": "Medium"
+      "google": null,
+      "glassdoor": null,
+      "interviewDifficulty": null
     },
     "metadata": {
       "verified": true,
@@ -111,22 +124,145 @@
         "url": "https://brainstation-23.com"
       },
       "confidence": "High",
-      "lastUpdated": "2026-07-01",
+      "lastUpdated": "2026-08-13",
       "version": "1.0.0",
-      "notes": ""
+      "notes": "Founded in 2006. Major Bangladesh software and digital transformation company."
     }
   },
   {
-    "id": "brain-station-23",
+    "id": "tiger-it-bangladesh-limited",
     "company": {
-      "name": "Brain Station 23",
-      "shortName": "BS23",
-      "logo": "assets/logos/brain-station-23.png",
-      "website": "https://brainstation-23.com",
-      "careerSite": "https://brainstation-23.com/career",
-      "description": "Leading software company in Bangladesh.",
+      "name": "Tiger IT Bangladesh Limited",
+      "shortName": "Tiger IT",
+      "logo": "/data/logos/tiger-it.png",
+      "website": "https://tigerit.com",
+      "careerSite": "https://tigerit.com/career",
+      "description": "A Bangladesh technology company specializing in identity management, biometric systems and large-scale national IT infrastructure solutions.",
+      "industry": "Software & IT Services",
+      "foundedYear": null,
+      "employeeSize": "500+",
+      "basisMember": true,
+      "headquarters": {
+        "city": "Dhaka",
+        "country": "Bangladesh"
+      },
+      "branches": [
+        "Dhaka"
+      ]
+    },
+    "technology": {
+      "languages": [
+        "C++",
+        "Java",
+        "C#",
+        "JavaScript"
+      ],
+      "frameworks": [
+        ".NET",
+        "Spring",
+        "React"
+      ],
+      "databases": [
+        "SQL Server",
+        "Oracle",
+        "PostgreSQL"
+      ],
+      "cloud": [
+        "AWS",
+        "Azure"
+      ],
+      "devops": [
+        "Docker",
+        "Kubernetes",
+        "CI/CD"
+      ],
+      "tools": [
+        "Git",
+        "Jira"
+      ]
+    },
+    "work": {
+      "workModels": [
+        "On-site",
+        "Hybrid"
+      ],
+      "officeHours": null,
+      "weekend": [
+        "Friday",
+        "Saturday"
+      ],
+      "flexibleHours": null,
+      "dressCode": null,
+      "probationMonths": null,
+      "overtimePolicy": null
+    },
+    "benefits": {
+      "lunch": {
+        "type": null
+      },
+      "festivalBonus": null,
+      "performanceBonus": null,
+      "providentFund": null,
+      "gratuity": null,
+      "medicalInsurance": null,
+      "transportFacility": null,
+      "internetAllowance": null,
+      "mobileAllowance": null,
+      "gym": null,
+      "parking": null,
+      "yearlyTour": null,
+      "trainingBudget": null,
+      "workFromHomeAllowance": null
+    },
+    "salary": {
+      "paymentMethod": null,
+      "salaryReview": null,
+      "salaryDate": null
+    },
+    "career": {
+      "acceptFreshers": null,
+      "internshipAvailable": null,
+      "hiring": true,
+      "careerEmail": null,
+      "hrEmail": null
+    },
+    "contact": {
+      "email": null,
+      "phone": null,
+      "facebook": "",
+      "linkedin": "",
+      "github": "",
+      "x": ""
+    },
+    "ratings": {
+      "google": null,
+      "glassdoor": null,
+      "interviewDifficulty": null
+    },
+    "metadata": {
+      "verified": true,
+      "verifiedBy": "Masum Kazi",
+      "source": {
+        "type": "Official Website",
+        "url": "https://tigerit.com"
+      },
+      "confidence": "High",
+      "lastUpdated": "2026-08-13",
+      "version": "1.0.0",
+      "notes": "Specializes in national-scale identity, biometric and credential management solutions."
+    }
+  },
+  {
+    "id": "bjit-limited",
+    "company": {
+      "name": "BJIT Limited",
+      "shortName": "BJIT",
+      "logo": "/data/logos/bjit.png",
+      "website": "https://bjitgroup.com",
+      "careerSite": "https://bjitgroup.com/career",
+      "description": "A global software development and engineering services company with major operations in Bangladesh.",
       "industry": "Software Development",
-      "foundedYear": 2006,
+      "foundedYear": 2001,
       "employeeSize": "1000+",
       "basisMember": true,
       "headquarters": {
@@ -139,21 +275,290 @@
     },
     "technology": {
       "languages": [
+        "Java",
         "C#",
+        "C++",
+        "JavaScript",
+        "TypeScript",
+        "Python"
+      ],
+      "frameworks": [
+        ".NET",
+        "Spring Boot",
+        "React",
+        "Angular",
+        "Node.js"
+      ],
+      "databases": [
+        "Oracle",
+        "PostgreSQL",
+        "MySQL",
+        "SQL Server"
+      ],
+      "cloud": [
+        "AWS",
+        "Azure",
+        "Google Cloud"
+      ],
+      "devops": [
+        "Docker",
+        "Kubernetes",
+        "Jenkins",
+        "CI/CD"
+      ],
+      "tools": [
+        "Git",
+        "Jira",
+        "Confluence"
+      ]
+    },
+    "work": {
+      "workModels": [
+        "On-site",
+        "Hybrid",
+        "Remote"
+      ],
+      "officeHours": null,
+      "weekend": [
+        "Friday",
+        "Saturday"
+      ],
+      "flexibleHours": null,
+      "dressCode": null,
+      "probationMonths": null,
+      "overtimePolicy": null
+    },
+    "benefits": {
+      "lunch": {
+        "type": null
+      },
+      "festivalBonus": null,
+      "performanceBonus": null,
+      "providentFund": null,
+      "gratuity": null,
+      "medicalInsurance": null,
+      "transportFacility": null,
+      "internetAllowance": null,
+      "mobileAllowance": null,
+      "gym": null,
+      "parking": null,
+      "yearlyTour": null,
+      "trainingBudget": null,
+      "workFromHomeAllowance": null
+    },
+    "salary": {
+      "paymentMethod": null,
+      "salaryReview": null,
+      "salaryDate": null
+    },
+    "career": {
+      "acceptFreshers": true,
+      "internshipAvailable": true,
+      "hiring": true,
+      "careerEmail": null,
+      "hrEmail": null
+    },
+    "contact": {
+      "email": null,
+      "phone": null,
+      "facebook": "",
+      "linkedin": "",
+      "github": "",
+      "x": ""
+    },
+    "ratings": {
+      "google": null,
+      "glassdoor": null,
+      "interviewDifficulty": null
+    },
+    "metadata": {
+      "verified": true,
+      "verifiedBy": "Masum Kazi",
+      "source": {
+        "type": "Official Website",
+        "url": "https://bjitgroup.com"
+      },
+      "confidence": "High",
+      "lastUpdated": "2026-08-13",
+      "version": "1.0.0",
+      "notes": "BJIT started operations in Bangladesh in 2001."
+    }
+  },
+  {
+    "id": "selise-digital-platforms",
+    "company": {
+      "name": "SELISE Digital Platforms",
+      "shortName": "SELISE",
+      "logo": "/data/logos/selise.png",
+      "website": "https://selisegroup.com",
+      "careerSite": "https://selisegroup.com/about-us/#selise-career",
+      "description": "A global digital transformation company with Bangladesh as a major engineering and innovation hub.",
+      "industry": "Software & Digital Transformation",
+      "foundedYear": 2011,
+      "employeeSize": "500+",
+      "basisMember": true,
+      "headquarters": {
+        "city": "Dhaka",
+        "country": "Bangladesh"
+      },
+      "branches": [
+        "Dhaka"
+      ]
+    },
+    "technology": {
+      "languages": [
+        "Java",
+        "JavaScript",
+        "TypeScript",
+        "Python"
+      ],
+      "frameworks": [
+        "React",
+        "Angular",
+        "Node.js",
+        "Spring Boot"
+      ],
+      "databases": [
+        "PostgreSQL",
+        "MySQL",
+        "MongoDB"
+      ],
+      "cloud": [
+        "AWS",
+        "Azure",
+        "Google Cloud"
+      ],
+      "devops": [
+        "Docker",
+        "Kubernetes",
+        "CI/CD"
+      ],
+      "tools": [
+        "Git",
+        "Jira",
+        "Confluence"
+      ]
+    },
+    "work": {
+      "workModels": [
+        "Hybrid",
+        "Remote",
+        "On-site"
+      ],
+      "officeHours": null,
+      "weekend": [
+        "Friday",
+        "Saturday"
+      ],
+      "flexibleHours": true,
+      "dressCode": null,
+      "probationMonths": null,
+      "overtimePolicy": null
+    },
+    "benefits": {
+      "lunch": {
+        "type": null
+      },
+      "festivalBonus": null,
+      "performanceBonus": null,
+      "providentFund": null,
+      "gratuity": null,
+      "medicalInsurance": null,
+      "transportFacility": null,
+      "internetAllowance": null,
+      "mobileAllowance": null,
+      "gym": null,
+      "parking": null,
+      "yearlyTour": null,
+      "trainingBudget": null,
+      "workFromHomeAllowance": null
+    },
+    "salary": {
+      "paymentMethod": null,
+      "salaryReview": null,
+      "salaryDate": null
+    },
+    "career": {
+      "acceptFreshers": null,
+      "internshipAvailable": null,
+      "hiring": true,
+      "careerEmail": null,
+      "hrEmail": null
+    },
+    "contact": {
+      "email": null,
+      "phone": null,
+      "facebook": "",
+      "linkedin": "",
+      "github": "",
+      "x": ""
+    },
+    "ratings": {
+      "google": null,
+      "glassdoor": null,
+      "interviewDifficulty": null
+    },
+    "metadata": {
+      "verified": true,
+      "verifiedBy": "Masum Kazi",
+      "source": {
+        "type": "Official Website",
+        "url": "https://selisegroup.com"
+      },
+      "confidence": "High",
+      "lastUpdated": "2026-08-13",
+      "version": "1.0.0",
+      "notes": "SELISE Bangladesh Ltd. was founded in 2011 and operates as a major engineering and innovation hub."
+    }
+  },
+  {
+    "id": "cefalo-bangladesh",
+    "company": {
+      "name": "Cefalo Bangladesh",
+      "shortName": "Cefalo",
+      "logo": "/data/logos/cefalo.png",
+      "website": "https://www.cefalo.com",
+      "careerSite": "https://career.cefalo.com",
+      "description": "A Norway-based software development company with a major developer and engineering operation in Dhaka.",
+      "industry": "Software Development",
+      "foundedYear": 2010,
+      "employeeSize": "200+",
+      "basisMember": true,
+      "headquarters": {
+        "city": "Dhaka",
+        "country": "Bangladesh"
+      },
+      "branches": [
+        "Dhaka"
+      ]
+    },
+    "technology": {
+      "languages": [
+        "C#",
+        "Python",
+        "JavaScript",
         "TypeScript"
       ],
       "frameworks": [
         ".NET",
+        "ASP.NET",
+        "Django",
+        "React",
         "Angular"
       ],
       "databases": [
-        "SQL Server"
+        "SQL Server",
+        "PostgreSQL",
+        "MySQL"
       ],
       "cloud": [
-        "Azure"
+        "Azure",
+        "AWS"
       ],
       "devops": [
-        "Docker"
+        "Docker",
+        "Kubernetes",
+        "CI/CD"
       ],
       "tools": [
         "Git",
@@ -162,75 +567,810 @@
     },
     "work": {
       "workModels": [
+        "On-site",
         "Hybrid"
       ],
-      "officeHours": {
-        "start": "09:00",
-        "end": "18:00"
-      },
+      "officeHours": null,
       "weekend": [
         "Friday",
         "Saturday"
       ],
-      "flexibleHours": false,
-      "dressCode": "Casual",
-      "probationMonths": 6,
-      "overtimePolicy": "Paid"
+      "flexibleHours": true,
+      "dressCode": null,
+      "probationMonths": null,
+      "overtimePolicy": null
     },
     "benefits": {
       "lunch": {
-        "type": "Subsidized"
+        "type": "Provided"
       },
       "festivalBonus": true,
-      "performanceBonus": true,
-      "providentFund": true,
-      "gratuity": false,
+      "performanceBonus": null,
+      "providentFund": null,
+      "gratuity": null,
       "medicalInsurance": true,
       "transportFacility": true,
-      "internetAllowance": false,
-      "mobileAllowance": false,
-      "gym": false,
-      "parking": true,
+      "internetAllowance": true,
+      "mobileAllowance": true,
+      "gym": true,
+      "parking": null,
       "yearlyTour": true,
       "trainingBudget": true,
-      "workFromHomeAllowance": false
+      "workFromHomeAllowance": null
     },
     "salary": {
-      "paymentMethod": "Bank",
-      "salaryReview": "Yearly",
-      "salaryDate": "Last Working Day"
+      "paymentMethod": null,
+      "salaryReview": true,
+      "salaryDate": "On time"
     },
     "career": {
       "acceptFreshers": true,
-      "internshipAvailable": true,
+      "internshipAvailable": null,
       "hiring": true,
-      "careerEmail": "career@brainstation-23.com",
-      "hrEmail": "hr@brainstation-23.com"
+      "careerEmail": "mail@cefalo.com",
+      "hrEmail": null
     },
     "contact": {
-      "email": "info@brainstation-23.com",
-      "phone": "+8801700000000",
+      "email": "mail@cefalo.com",
+      "phone": "+8809666233256",
       "facebook": "",
       "linkedin": "",
       "github": "",
       "x": ""
     },
     "ratings": {
-      "google": 4.6,
-      "glassdoor": 4.4,
-      "interviewDifficulty": "Medium"
+      "google": null,
+      "glassdoor": null,
+      "interviewDifficulty": null
     },
     "metadata": {
       "verified": true,
       "verifiedBy": "Masum Kazi",
       "source": {
         "type": "Official Website",
-        "url": "https://brainstation-23.com"
+        "url": "https://www.cefalo.com"
       },
       "confidence": "High",
-      "lastUpdated": "2026-07-01",
+      "lastUpdated": "2026-08-13",
       "version": "1.0.0",
-      "notes": ""
+      "notes": "Cefalo was established in 2010 and has a major software development operation in Dhaka."
+    }
+  },
+  {
+    "id": "enosis-solutions",
+    "company": {
+      "name": "Enosis Solutions",
+      "shortName": "Enosis",
+      "logo": "/data/logos/enosis.png",
+      "website": "https://www.enosisbd.com",
+      "careerSite": "https://www.enosisbd.com/careers",
+      "description": "A software development and testing services company with a large engineering team in Dhaka.",
+      "industry": "Software Development",
+      "foundedYear": null,
+      "employeeSize": "200-500",
+      "basisMember": true,
+      "headquarters": {
+        "city": "Dhaka",
+        "country": "Bangladesh"
+      },
+      "branches": [
+        "Dhaka"
+      ]
+    },
+    "technology": {
+      "languages": [
+        "C#",
+        "Java",
+        "C++",
+        "JavaScript",
+        "TypeScript",
+        "Python"
+      ],
+      "frameworks": [
+        ".NET",
+        "ASP.NET",
+        "React",
+        "Angular",
+        "Node.js"
+      ],
+      "databases": [
+        "SQL Server",
+        "PostgreSQL",
+        "MySQL",
+        "MongoDB"
+      ],
+      "cloud": [
+        "AWS",
+        "Azure"
+      ],
+      "devops": [
+        "Docker",
+        "Kubernetes",
+        "Jenkins"
+      ],
+      "tools": [
+        "Git",
+        "Jira",
+        "Selenium"
+      ]
+    },
+    "work": {
+      "workModels": [
+        "Hybrid",
+        "On-site"
+      ],
+      "officeHours": null,
+      "weekend": [
+        "Friday",
+        "Saturday"
+      ],
+      "flexibleHours": null,
+      "dressCode": null,
+      "probationMonths": null,
+      "overtimePolicy": null
+    },
+    "benefits": {
+      "lunch": {
+        "type": "Provided"
+      },
+      "festivalBonus": null,
+      "performanceBonus": null,
+      "providentFund": null,
+      "gratuity": null,
+      "medicalInsurance": null,
+      "transportFacility": null,
+      "internetAllowance": null,
+      "mobileAllowance": null,
+      "gym": null,
+      "parking": null,
+      "yearlyTour": null,
+      "trainingBudget": null,
+      "workFromHomeAllowance": null
+    },
+    "salary": {
+      "paymentMethod": null,
+      "salaryReview": null,
+      "salaryDate": null
+    },
+    "career": {
+      "acceptFreshers": true,
+      "internshipAvailable": null,
+      "hiring": true,
+      "careerEmail": null,
+      "hrEmail": null
+    },
+    "contact": {
+      "email": null,
+      "phone": null,
+      "facebook": "",
+      "linkedin": "",
+      "github": "",
+      "x": ""
+    },
+    "ratings": {
+      "google": null,
+      "glassdoor": null,
+      "interviewDifficulty": null
+    },
+    "metadata": {
+      "verified": true,
+      "verifiedBy": "Masum Kazi",
+      "source": {
+        "type": "Official Website / LinkedIn",
+        "url": "https://www.enosisbd.com"
+      },
+      "confidence": "High",
+      "lastUpdated": "2026-08-13",
+      "version": "1.0.0",
+      "notes": "Specializes in software development, QA/testing, web, desktop and mobile applications."
+    }
+  },
+  {
+    "id": "therap-bd",
+    "company": {
+      "name": "Therap (BD) Ltd.",
+      "shortName": "Therap",
+      "logo": "/data/logos/therap.png",
+      "website": "https://therapbd.com",
+      "careerSite": "https://therapbd.com/career",
+      "description": "A US-based software company registered in Bangladesh, developing software solutions for organizations supporting people with disabilities.",
+      "industry": "Software Development",
+      "foundedYear": 2004,
+      "employeeSize": "300+",
+      "basisMember": true,
+      "headquarters": {
+        "city": "Dhaka",
+        "country": "Bangladesh"
+      },
+      "branches": [
+        "Dhaka"
+      ]
+    },
+    "technology": {
+      "languages": [
+        "Java",
+        "JavaScript",
+        "TypeScript",
+        "Python"
+      ],
+      "frameworks": [
+        "Spring",
+        "React",
+        "Angular"
+      ],
+      "databases": [
+        "PostgreSQL",
+        "Oracle",
+        "MySQL"
+      ],
+      "cloud": [
+        "AWS",
+        "Google Cloud"
+      ],
+      "devops": [
+        "Docker",
+        "Kubernetes",
+        "CI/CD"
+      ],
+      "tools": [
+        "Git",
+        "Jira",
+        "Confluence"
+      ]
+    },
+    "work": {
+      "workModels": [
+        "On-site",
+        "Hybrid"
+      ],
+      "officeHours": null,
+      "weekend": [
+        "Friday",
+        "Saturday"
+      ],
+      "flexibleHours": true,
+      "dressCode": null,
+      "probationMonths": null,
+      "overtimePolicy": null
+    },
+    "benefits": {
+      "lunch": {
+        "type": "Provided"
+      },
+      "festivalBonus": null,
+      "performanceBonus": null,
+      "providentFund": null,
+      "gratuity": null,
+      "medicalInsurance": true,
+      "transportFacility": true,
+      "internetAllowance": null,
+      "mobileAllowance": null,
+      "gym": true,
+      "parking": null,
+      "yearlyTour": null,
+      "trainingBudget": true,
+      "workFromHomeAllowance": null
+    },
+    "salary": {
+      "paymentMethod": null,
+      "salaryReview": null,
+      "salaryDate": null
+    },
+    "career": {
+      "acceptFreshers": true,
+      "internshipAvailable": null,
+      "hiring": true,
+      "careerEmail": null,
+      "hrEmail": null
+    },
+    "contact": {
+      "email": "info@therapbd.com",
+      "phone": "+8801765998801",
+      "facebook": "",
+      "linkedin": "",
+      "github": "",
+      "x": ""
+    },
+    "ratings": {
+      "google": null,
+      "glassdoor": null,
+      "interviewDifficulty": null
+    },
+    "metadata": {
+      "verified": true,
+      "verifiedBy": "Masum Kazi",
+      "source": {
+        "type": "Official Website",
+        "url": "https://therapbd.com"
+      },
+      "confidence": "High",
+      "lastUpdated": "2026-08-13",
+      "version": "1.0.0",
+      "notes": "Operating in Bangladesh since 2004. Official site states 300+ members."
+    }
+  },
+  {
+    "id": "ulkasemi",
+    "company": {
+      "name": "ULKASEMI",
+      "shortName": "ULKASEMI",
+      "logo": "/data/logos/ulkasemi.png",
+      "website": "https://www.ulkasemi.com",
+      "careerSite": "https://www.ulkasemi.com/career",
+      "description": "A semiconductor design and engineering company with a major engineering workforce in Bangladesh.",
+      "industry": "Semiconductor & Engineering",
+      "foundedYear": null,
+      "employeeSize": "600+",
+      "basisMember": true,
+      "headquarters": {
+        "city": "Dhaka",
+        "country": "Bangladesh"
+      },
+      "branches": [
+        "Dhaka"
+      ]
+    },
+    "technology": {
+      "languages": [
+        "C",
+        "C++",
+        "Verilog",
+        "SystemVerilog",
+        "Python"
+      ],
+      "frameworks": [],
+      "databases": [],
+      "cloud": [],
+      "devops": [],
+      "tools": [
+        "EDA Tools",
+        "Git"
+      ]
+    },
+    "work": {
+      "workModels": [
+        "On-site",
+        "Hybrid"
+      ],
+      "officeHours": null,
+      "weekend": [
+        "Friday",
+        "Saturday"
+      ],
+      "flexibleHours": true,
+      "dressCode": null,
+      "probationMonths": null,
+      "overtimePolicy": null
+    },
+    "benefits": {
+      "lunch": {
+        "type": null
+      },
+      "festivalBonus": null,
+      "performanceBonus": true,
+      "providentFund": null,
+      "gratuity": null,
+      "medicalInsurance": true,
+      "transportFacility": null,
+      "internetAllowance": null,
+      "mobileAllowance": null,
+      "gym": null,
+      "parking": null,
+      "yearlyTour": null,
+      "trainingBudget": true,
+      "workFromHomeAllowance": null
+    },
+    "salary": {
+      "paymentMethod": null,
+      "salaryReview": null,
+      "salaryDate": null
+    },
+    "career": {
+      "acceptFreshers": true,
+      "internshipAvailable": null,
+      "hiring": null,
+      "careerEmail": null,
+      "hrEmail": null
+    },
+    "contact": {
+      "email": null,
+      "phone": null,
+      "facebook": "",
+      "linkedin": "",
+      "github": "",
+      "x": ""
+    },
+    "ratings": {
+      "google": null,
+      "glassdoor": null,
+      "interviewDifficulty": null
+    },
+    "metadata": {
+      "verified": true,
+      "verifiedBy": "Masum Kazi",
+      "source": {
+        "type": "Official Website",
+        "url": "https://www.ulkasemi.com"
+      },
+      "confidence": "High",
+      "lastUpdated": "2026-08-13",
+      "version": "1.0.0",
+      "notes": "ULKASEMI reports 600+ engineers globally and specializes in semiconductor design services."
+    }
+  },
+  {
+    "id": "radiant-data-systems",
+    "company": {
+      "name": "Radiant Data Systems",
+      "shortName": "RDS",
+      "logo": "/data/logos/radiant-data-systems.png",
+      "website": "https://www.radiantds.com",
+      "careerSite": "https://www.radiantds.com/careers",
+      "description": "A healthcare technology and business process company operating from Bangladesh and the United States.",
+      "industry": "Healthcare Technology",
+      "foundedYear": 2004,
+      "employeeSize": null,
+      "basisMember": true,
+      "headquarters": {
+        "city": "Dhaka",
+        "country": "Bangladesh"
+      },
+      "branches": [
+        "Dhaka"
+      ]
+    },
+    "technology": {
+      "languages": [
+        "C#",
+        "Java",
+        "JavaScript",
+        "Python"
+      ],
+      "frameworks": [
+        ".NET",
+        "React",
+        "Node.js"
+      ],
+      "databases": [
+        "SQL Server",
+        "PostgreSQL",
+        "MySQL"
+      ],
+      "cloud": [
+        "AWS",
+        "Azure"
+      ],
+      "devops": [
+        "Docker",
+        "CI/CD",
+        "RPA"
+      ],
+      "tools": [
+        "Git",
+        "Jira"
+      ]
+    },
+    "work": {
+      "workModels": [
+        "On-site",
+        "Hybrid"
+      ],
+      "officeHours": null,
+      "weekend": [
+        "Friday",
+        "Saturday"
+      ],
+      "flexibleHours": null,
+      "dressCode": null,
+      "probationMonths": null,
+      "overtimePolicy": null
+    },
+    "benefits": {
+      "lunch": {
+        "type": null
+      },
+      "festivalBonus": null,
+      "performanceBonus": null,
+      "providentFund": null,
+      "gratuity": null,
+      "medicalInsurance": null,
+      "transportFacility": null,
+      "internetAllowance": null,
+      "mobileAllowance": null,
+      "gym": null,
+      "parking": null,
+      "yearlyTour": null,
+      "trainingBudget": true,
+      "workFromHomeAllowance": null
+    },
+    "salary": {
+      "paymentMethod": null,
+      "salaryReview": null,
+      "salaryDate": null
+    },
+    "career": {
+      "acceptFreshers": null,
+      "internshipAvailable": null,
+      "hiring": true,
+      "careerEmail": null,
+      "hrEmail": null
+    },
+    "contact": {
+      "email": "info@radiantds.com",
+      "phone": "+8801330393399",
+      "facebook": "",
+      "linkedin": "",
+      "github": "",
+      "x": ""
+    },
+    "ratings": {
+      "google": null,
+      "glassdoor": null,
+      "interviewDifficulty": null
+    },
+    "metadata": {
+      "verified": true,
+      "verifiedBy": "Masum Kazi",
+      "source": {
+        "type": "Official Website",
+        "url": "https://www.radiantds.com"
+      },
+      "confidence": "High",
+      "lastUpdated": "2026-08-13",
+      "version": "1.0.0",
+      "notes": "Provides healthcare technology, software development, medical billing, coding and EMR integration services."
+    }
+  },
+  {
+    "id": "southtech-limited",
+    "company": {
+      "name": "Southtech Limited",
+      "shortName": "Southtech",
+      "logo": "/data/logos/southtech.png",
+      "website": "https://www.southtechgroup.com",
+      "careerSite": "https://www.southtechgroup.com/career",
+      "description": "An established Bangladesh software company providing full-cycle software development and technology solutions.",
+      "industry": "Software Development",
+      "foundedYear": 1996,
+      "employeeSize": "200+",
+      "basisMember": true,
+      "headquarters": {
+        "city": "Dhaka",
+        "country": "Bangladesh"
+      },
+      "branches": [
+        "Dhaka"
+      ]
+    },
+    "technology": {
+      "languages": [
+        "C#",
+        "Java",
+        "JavaScript",
+        "TypeScript",
+        "PHP"
+      ],
+      "frameworks": [
+        ".NET",
+        "ASP.NET",
+        "Angular",
+        "React",
+        "Laravel"
+      ],
+      "databases": [
+        "SQL Server",
+        "Oracle",
+        "PostgreSQL",
+        "MySQL"
+      ],
+      "cloud": [
+        "Azure",
+        "AWS"
+      ],
+      "devops": [
+        "Docker",
+        "CI/CD"
+      ],
+      "tools": [
+        "Git",
+        "Jira",
+        "Confluence"
+      ]
+    },
+    "work": {
+      "workModels": [
+        "On-site",
+        "Hybrid"
+      ],
+      "officeHours": null,
+      "weekend": [
+        "Friday",
+        "Saturday"
+      ],
+      "flexibleHours": null,
+      "dressCode": null,
+      "probationMonths": null,
+      "overtimePolicy": null
+    },
+    "benefits": {
+      "lunch": {
+        "type": null
+      },
+      "festivalBonus": null,
+      "performanceBonus": null,
+      "providentFund": null,
+      "gratuity": null,
+      "medicalInsurance": null,
+      "transportFacility": null,
+      "internetAllowance": null,
+      "mobileAllowance": null,
+      "gym": null,
+      "parking": null,
+      "yearlyTour": null,
+      "trainingBudget": null,
+      "workFromHomeAllowance": null
+    },
+    "salary": {
+      "paymentMethod": null,
+      "salaryReview": null,
+      "salaryDate": null
+    },
+    "career": {
+      "acceptFreshers": null,
+      "internshipAvailable": null,
+      "hiring": null,
+      "careerEmail": null,
+      "hrEmail": null
+    },
+    "contact": {
+      "email": null,
+      "phone": null,
+      "facebook": "",
+      "linkedin": "",
+      "github": "",
+      "x": ""
+    },
+    "ratings": {
+      "google": null,
+      "glassdoor": null,
+      "interviewDifficulty": null
+    },
+    "metadata": {
+      "verified": true,
+      "verifiedBy": "Masum Kazi",
+      "source": {
+        "type": "Official Website",
+        "url": "https://www.southtechgroup.com"
+      },
+      "confidence": "High",
+      "lastUpdated": "2026-08-13",
+      "version": "1.0.0",
+      "notes": "Established software company offering full-cycle IT and software development services."
+    }
+  },
+  {
+    "id": "datasoft-systems-bangladesh",
+    "company": {
+      "name": "DataSoft Systems Bangladesh Limited",
+      "shortName": "DataSoft",
+      "logo": "/data/logos/datasoft.png",
+      "website": "https://datasoft-bd.com",
+      "careerSite": "https://datasoft-bd.com/career",
+      "description": "An established Bangladesh software and technology company providing enterprise software and digital solutions.",
+      "industry": "Software Development",
+      "foundedYear": 1998,
+      "employeeSize": "500+",
+      "basisMember": true,
+      "headquarters": {
+        "city": "Dhaka",
+        "country": "Bangladesh"
+      },
+      "branches": [
+        "Dhaka"
+      ]
+    },
+    "technology": {
+      "languages": [
+        "C#",
+        "Java",
+        "JavaScript",
+        "Python"
+      ],
+      "frameworks": [
+        ".NET",
+        "ASP.NET",
+        "Angular",
+        "React",
+        "Spring"
+      ],
+      "databases": [
+        "SQL Server",
+        "Oracle",
+        "PostgreSQL",
+        "MySQL"
+      ],
+      "cloud": [
+        "Azure",
+        "AWS"
+      ],
+      "devops": [
+        "Docker",
+        "CI/CD"
+      ],
+      "tools": [
+        "Git",
+        "Jira"
+      ]
+    },
+    "work": {
+      "workModels": [
+        "On-site",
+        "Hybrid"
+      ],
+      "officeHours": null,
+      "weekend": [
+        "Friday",
+        "Saturday"
+      ],
+      "flexibleHours": null,
+      "dressCode": null,
+      "probationMonths": null,
+      "overtimePolicy": null
+    },
+    "benefits": {
+      "lunch": {
+        "type": null
+      },
+      "festivalBonus": null,
+      "performanceBonus": null,
+      "providentFund": null,
+      "gratuity": null,
+      "medicalInsurance": null,
+      "transportFacility": null,
+      "internetAllowance": null,
+      "mobileAllowance": null,
+      "gym": null,
+      "parking": null,
+      "yearlyTour": null,
+      "trainingBudget": null,
+      "workFromHomeAllowance": null
+    },
+    "salary": {
+      "paymentMethod": null,
+      "salaryReview": null,
+      "salaryDate": null
+    },
+    "career": {
+      "acceptFreshers": null,
+      "internshipAvailable": null,
+      "hiring": null,
+      "careerEmail": null,
+      "hrEmail": null
+    },
+    "contact": {
+      "email": null,
+      "phone": null,
+      "facebook": "",
+      "linkedin": "",
+      "github": "",
+      "x": ""
+    },
+    "ratings": {
+      "google": null,
+      "glassdoor": null,
+      "interviewDifficulty": null
+    },
+    "metadata": {
+      "verified": true,
+      "verifiedBy": "Masum Kazi",
+      "source": {
+        "type": "Official Website / BASIS",
+        "url": "https://basis.org.bd"
+      },
+      "confidence": "Medium",
+      "lastUpdated": "2026-08-13",
+      "version": "1.0.0",
+      "notes": "Established Bangladesh software company with long-standing presence in enterprise and digital solutions."
     }
   }
 ]

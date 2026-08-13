@@ -1,10 +1,7 @@
 export interface Salary {
-
-  paymentMethod: PaymentMethod;
-
-  salaryReview: SalaryReview;
-
-  salaryDate: string;
+  paymentMethod?: PaymentMethod | string | null;
+  salaryReview?: SalaryReview | string | boolean | null;
+  salaryDate?: string | null;
 }
 
 export type PaymentMethod =

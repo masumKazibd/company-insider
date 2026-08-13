@@ -1,25 +1,20 @@
 export interface WorkInfo {
-  workModels: WorkModel[];
-
-  officeHours: OfficeHours;
-
-  weekend: WeekendDay[];
-
-  flexibleHours: boolean;
-
-  dressCode: DressCode;
-
-  probationMonths: number;
-
-  overtimePolicy: OvertimePolicy;
+  workModels?: (WorkModel | string)[] | null;
+  officeHours?: OfficeHours | null;
+  weekend?: (WeekendDay | string)[] | null;
+  flexibleHours?: boolean | null;
+  dressCode?: DressCode | string | null;
+  probationMonths?: number | null;
+  overtimePolicy?: OvertimePolicy | string | null;
 }
 
 export interface OfficeHours {
-  start: string;
-  end: string;
+  start?: string | null;
+  end?: string | null;
 }
 
 export type WorkModel =
+  | 'On-site'
   | 'Onsite'
   | 'Hybrid'
   | 'Remote';

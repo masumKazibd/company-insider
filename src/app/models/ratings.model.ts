@@ -1,11 +1,5 @@
 export interface Ratings {
-
-  google?: number;
-
-  glassdoor?: number;
-
-  interviewDifficulty?:
-    | 'Easy'
-    | 'Medium'
-    | 'Hard';
+  google?: number | null;
+  glassdoor?: number | null;
+  interviewDifficulty?: string | null;
 }

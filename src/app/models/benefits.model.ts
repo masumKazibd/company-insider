@@ -1,40 +1,27 @@
 export interface Benefits {
-
-  lunch: Lunch;
-
-  festivalBonus: boolean;
-
-  performanceBonus: boolean;
-
-  providentFund: boolean;
-
-  gratuity: boolean;
-
-  medicalInsurance: boolean;
-
-  transportFacility: boolean;
-
-  internetAllowance: boolean;
-
-  mobileAllowance: boolean;
-
-  gym: boolean;
-
-  parking: boolean;
-
-  yearlyTour: boolean;
-
-  trainingBudget: boolean;
-
-  workFromHomeAllowance: boolean;
+  lunch?: Lunch | null;
+  festivalBonus?: boolean | null;
+  performanceBonus?: boolean | null;
+  providentFund?: boolean | null;
+  gratuity?: boolean | null;
+  medicalInsurance?: boolean | null;
+  transportFacility?: boolean | null;
+  internetAllowance?: boolean | null;
+  mobileAllowance?: boolean | null;
+  gym?: boolean | null;
+  parking?: boolean | null;
+  yearlyTour?: boolean | null;
+  trainingBudget?: boolean | null;
+  workFromHomeAllowance?: boolean | null;
 }
 
 export interface Lunch {
-  type: LunchType;
+  type?: LunchType | string | null;
 }
 
 export type LunchType =
   | 'Free'
+  | 'Provided'
   | 'Subsidized'
   | 'Half Subsidized'
   | 'Food Court'

@@ -1,17 +1,19 @@
 import { ComponentFixture, TestBed } from '@angular/core/testing';
+import { provideRouter } from '@angular/router';
+import { CompanyGridComponent } from './company-grid.component';
 
-import { CompanyGrid } from './company-grid.component';
-
-describe('CompanyGrid', () => {
-  let component: CompanyGrid;
-  let fixture: ComponentFixture<CompanyGrid>;
+describe('CompanyGridComponent', () => {
+  let component: CompanyGridComponent;
+  let fixture: ComponentFixture<CompanyGridComponent>;
 
   beforeEach(async () => {
     await TestBed.configureTestingModule({
-      imports: [CompanyGrid],
+      imports: [CompanyGridComponent],
+      providers: [provideRouter([])]
     }).compileComponents();
 
-    fixture = TestBed.createComponent(CompanyGrid);
+    fixture = TestBed.createComponent(CompanyGridComponent);
+    fixture.componentRef.setInput('companies', []);
     component = fixture.componentInstance;
     await fixture.whenStable();
   });

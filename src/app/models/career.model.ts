@@ -1,12 +1,7 @@
 export interface Career {
-
-  acceptFreshers: boolean;
-
-  internshipAvailable: boolean;
-
-  hiring: boolean;
-
-  careerEmail?: string;
-
-  hrEmail?: string;
+  acceptFreshers?: boolean | null;
+  internshipAvailable?: boolean | null;
+  hiring?: boolean | null;
+  careerEmail?: string | null;
+  hrEmail?: string | null;
 }

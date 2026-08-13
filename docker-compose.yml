@@ -1,0 +1,19 @@
+services:
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile.dev
+    container_name: company-insider-dev
+    ports:
+      - "4200:4200"
+    volumes:
+      - .:/app
+      - node_modules:/app/node_modules
+      - angular_cache:/app/.angular
+    environment:
+      - NG_CLI_ANALYTICS=false
+    command: npm run start -- --host 0.0.0.0
+
+volumes:
+  node_modules:
+  angular_cache:

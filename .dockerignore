@@ -1,0 +1,16 @@
+node_modules
+.git
+.gitignore
+.angular
+dist
+tmp
+out-tsc
+coverage
+.vscode
+.idea
+*.log
+npm-debug.log
+yarn-error.log
+Dockerfile*
+docker-compose*
+README.md

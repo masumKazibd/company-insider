@@ -2,15 +2,37 @@
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 21.2.7.
 
-## Development server
+## Docker Development (Zero Local Setup Required)
 
-To start a local development server, run:
+You **do not need Node.js or NPM installed on your local machine**. Docker Compose manages all dependencies, building, and serving inside the container with **Hot Reloading**.
 
+### 1. Start Development Server with Hot Reload
 ```bash
-ng serve
+docker compose up --build
 ```
+Open **`http://localhost:4200/`** in your browser. Modifying any file under `src/` will trigger instant hot reloads in the browser.
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
+### 2. Common Docker Commands
+
+- **Stop the app**:
+  ```bash
+  docker compose down
+  ```
+
+- **Generate Angular components** (without local Angular CLI):
+  ```bash
+  docker compose exec app npx ng generate component features/my-component
+  ```
+
+- **Install a new npm package** (without local NPM):
+  ```bash
+  docker compose exec app npm install <package-name>
+  ```
+
+- **Run tests**:
+  ```bash
+  docker compose exec app npm test
+  ```
 
 ## Code scaffolding
 

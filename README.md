@@ -6,11 +6,11 @@ This project was generated using [Angular CLI](https://github.com/angular/angula
 
 You **do not need Node.js or NPM installed on your local machine**. Docker Compose manages all dependencies, building, and serving inside the container with **Hot Reloading**.
 
-### 1. Start Development Server with Hot Reload
+### 1. Start Development Server with Fast Hot Reload
 ```bash
 docker compose up --build
 ```
-Open **`http://localhost:4200/`** in your browser. Modifying any file under `src/` will trigger instant hot reloads in the browser.
+Open **`http://localhost:4200/`** in your browser. Uses native `inotify` file events and named cache volumes for **instant (<100ms) hot reloading** when files are updated in `src/`.
 
 ### 2. Common Docker Commands
 

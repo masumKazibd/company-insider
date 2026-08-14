@@ -918,8 +918,8 @@
         "SystemVerilog",
         "Python"
       ],
-      "frameworks": [],
-      "databases": [],
+      "frameworks": ["CCNA", "MTCNA", "CCIP"],
+      "databases": ["MySQL", "PostgreSQL"],
       "cloud": [],
       "devops": [],
       "tools": [
@@ -1256,6 +1256,131 @@
       "logo": "/data/logos/datasoft.png",
       "website": "https://datasoft-bd.com",
       "careerSite": "https://datasoft-bd.com/career",
+      "description": "An established Bangladesh software and technology company providing enterprise software and digital solutions.",
+      "industry": "Software Development",
+      "foundedYear": 1998,
+      "employeeSize": "500+",
+      "basisMember": true,
+      "headquarters": {
+        "city": "Dhaka",
+        "country": "Bangladesh"
+      },
+      "branches": [
+        "Dhaka"
+      ]
+    },
+    "technology": {
+      "languages": [
+        "C#",
+        "Java",
+        "JavaScript",
+        "Python"
+      ],
+      "frameworks": [
+        ".NET",
+        "ASP.NET",
+        "Angular",
+        "React",
+        "Spring"
+      ],
+      "databases": [
+        "SQL Server",
+        "Oracle",
+        "PostgreSQL",
+        "MySQL"
+      ],
+      "cloud": [
+        "Azure",
+        "AWS"
+      ],
+      "devops": [
+        "Docker",
+        "CI/CD"
+      ],
+      "tools": [
+        "Git",
+        "Jira"
+      ]
+    },
+    "work": {
+      "workModels": [
+        "On-site",
+        "Hybrid"
+      ],
+      "officeHours": null,
+      "weekend": [
+        "Friday",
+        "Saturday"
+      ],
+      "flexibleHours": null,
+      "dressCode": null,
+      "probationMonths": null,
+      "overtimePolicy": null
+    },
+    "benefits": {
+      "lunch": {
+        "type": null
+      },
+      "festivalBonus": null,
+      "performanceBonus": null,
+      "providentFund": null,
+      "gratuity": null,
+      "medicalInsurance": null,
+      "transportFacility": null,
+      "internetAllowance": null,
+      "mobileAllowance": null,
+      "gym": null,
+      "parking": null,
+      "yearlyTour": null,
+      "trainingBudget": null,
+      "workFromHomeAllowance": null
+    },
+    "salary": {
+      "paymentMethod": null,
+      "salaryReview": null,
+      "salaryDate": null
+    },
+    "career": {
+      "acceptFreshers": null,
+      "internshipAvailable": null,
+      "hiring": null,
+      "careerEmail": null,
+      "hrEmail": null
+    },
+    "contact": {
+      "email": null,
+      "phone": null,
+      "facebook": "",
+      "linkedin": "",
+      "github": "",
+      "x": ""
+    },
+    "ratings": {
+      "google": null,
+      "glassdoor": null,
+      "interviewDifficulty": null
+    },
+    "metadata": {
+      "verified": true,
+      "verifiedBy": "Masum Kazi",
+      "source": {
+        "type": "Official Website / BASIS",
+        "url": "https://basis.org.bd"
+      },
+      "confidence": "Medium",
+      "lastUpdated": "2026-08-13",
+      "version": "1.0.0",
+      "notes": "Established Bangladesh software company with long-standing presence in enterprise and digital solutions."
+    }
+  },
+  {
+    "id": "millennium-information-solution-ltd",
+    "company": {
+      "name": "Millennium Information Solution Ltd",
+      "shortName": "MISL",
+      "logo": "/data/logos/mislbd.png",
+      "website": "https://mislbd.com",
+      "careerSite": "https://mislbd.com/career",
       "description": "An established Bangladesh software and technology company providing enterprise software and digital solutions.",
       "industry": "Software Development",
       "foundedYear": 1998,
